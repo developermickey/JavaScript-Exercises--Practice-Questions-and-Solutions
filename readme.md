@@ -1,8 +1,3 @@
-Here is a detailed `README.md` file for a project titled **"JavaScript Exercises, Practice Questions and Solutions"**. This is ideal for GitHub repositories or coding practice platforms.
-
----
-
-```markdown
 # JavaScript Exercises, Practice Questions and Solutions
 
 Welcome to the **JavaScript Exercises Repository**! 🚀  
@@ -24,7 +19,7 @@ The goal of this repository is to:
 
 ## 📁 Directory Structure
 
-```
+```bash
 
 javascript-exercises/
 │
