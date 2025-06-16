@@ -140,6 +140,7 @@ If you want to add your own problems or solutions:
 git checkout -b my-solution
 git commit -m "Added solution for array reverse problem"
 git push origin my-solution
+
 ```
 
 ---
@@ -163,9 +164,9 @@ This project is open-source and available under the [MIT License](LICENSE).
 Happy Coding! 🎉
 *“Practice like you've never won. Perform like you've never lost.”*
 
-```
+
 
 ---
 
 Let me know if you'd like a ZIP with starter files or if this should be adapted for a React/Node course repo.
-```
+
