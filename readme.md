@@ -1,8 +1,4 @@
-Here’s your **professional and polished `README.md`** file for the JavaScript Exercises repository, with improved formatting, grammar, structure, and clarity — ready to copy-paste:
 
----
-
-````markdown
 # JavaScript Exercises, Practice Questions, and Solutions
 
 Welcome to the **JavaScript Exercises Repository**! 🚀  
@@ -167,9 +163,7 @@ This project is open-source under the [MIT License](LICENSE).
 ## 🎉 Happy Coding!
 
 > “Practice like you've never won. Perform like you've never lost.”
-> – Anonymous
+> – Coder
 
----
 
-```
 
